@@ -26,9 +26,6 @@
       .u-row .u-col {
         vertical-align: top;
       }
-      .u-row .u-col-50 {
-        width: 300px !important;
-      }
       .u-row .u-col-100 {
         width: 600px !important;
       }
@@ -97,12 +94,6 @@
     }
     
     @media (max-width: 480px) {
-      #u_content_image_6 .v-src-width {
-        width: 100% !important;
-      }
-      #u_content_image_6 .v-src-max-width {
-        max-width: 100% !important;
-      }
       #u_content_image_7 .v-src-width {
         width: 100% !important;
       }
@@ -113,6 +104,12 @@
         width: 100% !important;
       }
       #u_content_image_8 .v-src-max-width {
+        max-width: 100% !important;
+      }
+      #u_content_image_11 .v-src-width {
+        width: 100% !important;
+      }
+      #u_content_image_11 .v-src-max-width {
         max-width: 100% !important;
       }
       #u_content_text_10 .v-text-align {
@@ -155,14 +152,14 @@
                       <table style="font-family:'Cabin',sans-serif;" role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0">
                         <tbody>
                           <tr>
-                            <td style="overflow-wrap:break-word;word-break:break-word;padding:20px;font-family:'Cabin',sans-serif;" align="left">
+                            <td style="overflow-wrap:break-word;word-break:break-word;padding:1px;font-family:'Cabin',sans-serif;" align="left">
 
                               <table width="100%" cellpadding="0" cellspacing="0" border="0">
                                 <tr>
                                   <td class="v-text-align" style="padding-right: 0px;padding-left: 0px;" align="center">
 
-                                    <img align="center" border="0" src="https://assets.unlayer.com/projects/161379/1684594853400-Frame%201000004684%20(2).png" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 560px;"
-                                      width="560" class="v-src-width v-src-max-width" />
+                                    <img align="center" border="0" src="https://assets.unlayer.com/projects/161379/1684594853400-Frame%201000004684%20(2).png" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 598px;"
+                                      width="598" class="v-src-width v-src-max-width" />
 
                                   </td>
                                 </tr>
@@ -243,7 +240,7 @@
                                 <!--[if (mso)|(IE)]><td style="padding:5px 15px"><![endif]-->
 
                                 <a href="https://www.realdeal.space/" target="_self" style="padding:5px 15px;display:inline-block;color:#b71c1c;font-family:'Open Sans',sans-serif;font-size:14px;text-decoration:none">
-      Deal Hot 🔥
+      Deal Hot🏠
     </a>
 
                                 <!--[if (mso)|(IE)]></td><![endif]-->
@@ -275,42 +272,8 @@
               <div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
                 <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: transparent;"><![endif]-->
 
-                <!--[if (mso)|(IE)]><td align="center" width="300" style="width: 300px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;" valign="top"><![endif]-->
-                <div class="u-col u-col-50" style="max-width: 320px;min-width: 300px;display: table-cell;vertical-align: top;">
-                  <div style="height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
-                    <!--[if (!mso)&(!IE)]><!-->
-                    <div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
-                      <!--<![endif]-->
-
-                      <table id="u_content_image_6" style="font-family:'Cabin',sans-serif;" role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0">
-                        <tbody>
-                          <tr>
-                            <td style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Cabin',sans-serif;" align="left">
-
-                              <table width="100%" cellpadding="0" cellspacing="0" border="0">
-                                <tr>
-                                  <td class="v-text-align" style="padding-right: 0px;padding-left: 0px;" align="center">
-                                    <a href="https://www.realdeal.space/property/vinhomes-bason/" target="_blank">
-                                      <img align="center" border="0" src="https://assets.unlayer.com/projects/161379/1684594639920-Product%20card%20(6).png" alt="Căn hộ Vinhomes Golden River" title="Căn hộ Vinhomes Golden River" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 280px;"
-                                        width="280" class="v-src-width v-src-max-width" />
-                                    </a>
-                                  </td>
-                                </tr>
-                              </table>
-
-                            </td>
-                          </tr>
-                        </tbody>
-                      </table>
-
-                      <!--[if (!mso)&(!IE)]><!-->
-                    </div>
-                    <!--<![endif]-->
-                  </div>
-                </div>
-                <!--[if (mso)|(IE)]></td><![endif]-->
-                <!--[if (mso)|(IE)]><td align="center" width="300" style="width: 300px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;" valign="top"><![endif]-->
-                <div class="u-col u-col-50" style="max-width: 320px;min-width: 300px;display: table-cell;vertical-align: top;">
+                <!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;" valign="top"><![endif]-->
+                <div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
                   <div style="height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
                     <!--[if (!mso)&(!IE)]><!-->
                     <div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
@@ -325,8 +288,8 @@
                                 <tr>
                                   <td class="v-text-align" style="padding-right: 0px;padding-left: 0px;" align="center">
                                     <a href="https://www.realdeal.space/property/shophouse-tai-sun-premier-village/" target="_blank">
-                                      <img align="center" border="0" src="https://assets.unlayer.com/projects/161379/1684594665281-Product%20card%20(7).png" alt="Shophouse Sun Premier Village" title="Shophouse Sun Premier Village" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 280px;"
-                                        width="280" class="v-src-width v-src-max-width" />
+                                      <img align="center" border="0" src="https://assets.unlayer.com/projects/161379/1684986943200-Product%20card%20(5).png" alt="Shophouse Sun Premier Village" title="Shophouse Sun Premier Village" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 580px;"
+                                        width="580" class="v-src-width v-src-max-width" />
                                     </a>
                                   </td>
                                 </tr>
@@ -337,31 +300,6 @@
                         </tbody>
                       </table>
 
-                      <!--[if (!mso)&(!IE)]><!-->
-                    </div>
-                    <!--<![endif]-->
-                  </div>
-                </div>
-                <!--[if (mso)|(IE)]></td><![endif]-->
-                <!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->
-              </div>
-            </div>
-          </div>
-
-
-
-          <div class="u-row-container" style="padding: 0px;background-color: transparent">
-            <div class="u-row" style="Margin: 0 auto;min-width: 320px;max-width: 600px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: transparent;">
-              <div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-color: transparent;">
-                <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:600px;"><tr style="background-color: transparent;"><![endif]-->
-
-                <!--[if (mso)|(IE)]><td align="center" width="600" style="width: 600px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;" valign="top"><![endif]-->
-                <div class="u-col u-col-100" style="max-width: 320px;min-width: 600px;display: table-cell;vertical-align: top;">
-                  <div style="height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
-                    <!--[if (!mso)&(!IE)]><!-->
-                    <div style="box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;">
-                      <!--<![endif]-->
-
                       <table id="u_content_image_8" style="font-family:'Cabin',sans-serif;" role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0">
                         <tbody>
                           <tr>
@@ -371,8 +309,29 @@
                                 <tr>
                                   <td class="v-text-align" style="padding-right: 0px;padding-left: 0px;" align="center">
                                     <a href="https://www.realdeal.space/property/can-ho-river-panorama-quan-7-thanh-pho-ho-chi-minh/" target="_blank">
-                                      <img align="center" border="0" src="https://assets.unlayer.com/projects/161379/1684594678983-Product%20card%20(8).png" alt="Căn hộ River Panorama" title="Căn hộ River Panorama" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 50%;max-width: 290px;"
-                                        width="290" class="v-src-width v-src-max-width" />
+                                      <img align="center" border="0" src="https://assets.unlayer.com/projects/161379/1684986965641-Product%20card%20(6).png" alt="Căn hộ River Panorama" title="Căn hộ River Panorama" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 580px;"
+                                        width="580" class="v-src-width v-src-max-width" />
+                                    </a>
+                                  </td>
+                                </tr>
+                              </table>
+
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+
+                      <table id="u_content_image_11" style="font-family:'Cabin',sans-serif;" role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0">
+                        <tbody>
+                          <tr>
+                            <td style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Cabin',sans-serif;" align="left">
+
+                              <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                  <td class="v-text-align" style="padding-right: 0px;padding-left: 0px;" align="center">
+                                    <a href="https://www.realdeal.space/property/can-ho-river-panorama-quan-7-thanh-pho-ho-chi-minh/" target="_blank">
+                                      <img align="center" border="0" src="https://assets.unlayer.com/projects/161379/1684986979071-Product%20card%20(7).png" alt="Căn hộ River Panorama" title="Căn hộ River Panorama" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 580px;"
+                                        width="580" class="v-src-width v-src-max-width" />
                                     </a>
                                   </td>
                                 </tr>
@@ -411,14 +370,14 @@
                       <table style="font-family:'Cabin',sans-serif;" role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0">
                         <tbody>
                           <tr>
-                            <td style="overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Cabin',sans-serif;" align="left">
+                            <td style="overflow-wrap:break-word;word-break:break-word;padding:1px;font-family:'Cabin',sans-serif;" align="left">
 
                               <table width="100%" cellpadding="0" cellspacing="0" border="0">
                                 <tr>
                                   <td class="v-text-align" style="padding-right: 0px;padding-left: 0px;" align="center">
 
-                                    <img align="center" border="0" src="https://assets.unlayer.com/projects/161379/1684488012170-Frame%201000004683%20(1).png" alt="Xem thêm bất động sản  khác" title="Xem thêm bất động sản  khác" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 580px;"
-                                      width="580" class="v-src-width v-src-max-width" />
+                                    <img align="center" border="0" src="https://assets.unlayer.com/projects/161379/1684488012170-Frame%201000004683%20(1).png" alt="Xem thêm bất động sản  khác" title="Xem thêm bất động sản  khác" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 598px;"
+                                      width="598" class="v-src-width v-src-max-width" />
 
                                   </td>
                                 </tr>
